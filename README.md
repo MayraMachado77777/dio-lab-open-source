@@ -1,132 +1,301 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+Mayra Machado
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+## 🛠 Habilidades
+Javascript, HTML, CSS, C#, Java, Marketingdigital, Data analysis inovação, photoshop, indesigner, Figma, Azure.
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+## 🚀 Sobre mim Pt-Br
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+🔥 **Desafiando Limites | Criando o Futuro | Impactando o Mundo** 🔥 
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+Seja bem-vindo! 
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+Eu sou Mayra Machado, uma mente incansável em busca de superar fronteiras e moldar o amanhã. Minha jornada é uma trilha de conquistas, repleta de paixão pela inovação e fome insaciável pelo conhecimento.
+Sou uma jovem profissional empreendedora que pretende continuar meu desenvolvimento. Gosto de dar o meu melhor em todas as tarefas. Tenho uma atitude proativa e encontro maneiras positivas de estimular e se envolver com as pessoas.Amo aprender coisas novas e acredito que a busca de novos conhecimentos devem ser constante ! 
 
----
-##  Desafio: Profile README
- Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
- Inspire-se consultando os exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+🌎 Idiomas - Inglês: Intermediario - Italiano:Basico - Francês: Fluente - Espanhol: Fluente - Português: Língua Materna
 
-### Instruções (PT/BR)
-1. Faça um **Fork** deste repositório;
-2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
-    > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Crie uma nova **branch** e nomeie como `feat/community/seunomedeusuario`: `git checkout -b feat/community/seunomedeusuario`;
-    > Exemplo: `git checkout -b feat/community/elidianaandrade`
-5. Dentro da pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `elidianaandrade.md` <br>
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Observação:** Use os outros exemplos como inspiração e não cópia.
-7. Adicione suas alterações à "staging area" com o comando `git add community/seunomedeusuario.md`;
-8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add seunomedeusuario profile"`;
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
-10. Crie um **Pull Request**.
+🎓 Formação 
 
-### Instructions (EN/US)
-1. **Fork** the repository;
-2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
-3. Add upstream remote to keep your local repository up to date: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
-    > Use the command `git pull upstream main` to download and merge changes to your local repository based on the branch `main` from this original repository you forked it from, or `git fetch upstream main` to download without merging. See more at: [Getting Started with Git and GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Create a new **branch** and name it as `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
-    > Example: `git checkout -b feat/community/elidianaandrade`
-5. Inside the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), create a file in Markdown (extension `.md`) and name it the same as your GitHub username;
-    > Example: `elidianaandrade.md` <br>
-6. Develop your profile. For this you can see examples in the folder [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) and add some of the utilities present in the folder [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
-    > **Note:** Use the other examples as inspiration, not copy.
-7. Add your changes to the "staging area" with the command `git add community/yourusername.md`;
-8. Create a commit and add the message indicating the addition of your profile `git commit -m"feat: add yourusername profile"`;
-9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
-10. Create a **Pull Request**.
+* PUC Minas
 
-### Utilitários
+Bacharelado em Tecnologia - BTech, Análise e Desenvolvimento de Sistemas (Janeiro de 2023 - Agosto de 2025)
 
-[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
-[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
-[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+* 42 Lisboa
 
----
+Tecnologia da Informação (Junho de 2022 - Agosto de 2022)
+Centro Universitário Unihorizontes
 
-## Contribua
-[![Star](https://img.shields.io/github/stars/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/issues/)
+* Bacharelado em Administração, Administração e Negócios (2014 - 2016)
+Universidade de Coimbra
 
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
+* Udacit ( Digital Marketing, Marketing Analytics e Data Visualization Nanodegree )
+* Diploma de Educação, Introdução à Programação em Processing (Maio de 2022 - Agosto de 2022)
 
-⭐ Adicionando aos favoritos (**star**) 
+* Université Laval
 
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
-</a>
+Mooc Le Management Responsable, Administração de Empresas (2019 - 2019)
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+🚀 Experiência 
+*Criart Marketing Digital marketing digital
+janeiro de 2020 - Present (3 anos 8 meses)
+Braga, Braga, Portugal
+
+* Imaginart Marketing Digital
+Marketing digital
+maio de 2016 - Present (7 anos 4 meses)
+
+* IBM
+Accounts Payable
+março de 2021 - setembro de 2022 (1 ano 7 meses)
+Braga, Portugal
+Faturação em Sap, As400 e Guide TI. Auditorias
+
+* OdontoVip
+Gerente administrativo
+julho de 2016 - outubro de 2019 (3 anos 4 meses)
+ibirite
+
+* Step do Brasil
+Analista de projetos
+abril de 2014 - outubro de 2014 (7 meses)
+Contagem e Região, Brasil
+Elaboração de documentos de liberação de engenharia da Fiat Automoveis.
+
+* CNH Industrial
+Estágio
+dezembro de 2012 - abril de 2014 (1 ano 5 meses)
+Contagem e Região, Brasil
+Cargo: Estagio- Engenharia do Produto – Engineering Services
+Principais atividades: Elaboração de documentos de liberação de engenharia e liberação estrutura comercial no ambiente PRP(Product Representation Process).
+
+* Embalagens M2B
+Aux. Escritorio – Aux ADM - Faturista
+dezembro de 2009 - janeiro de 2012 (2 anos 2 meses)
+Ibirite
+Principais atividades: Elaboração de documentos de ordens de produção,faturamento ( simples nacional e núcleo real) e contas a receber.
+
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+
+🚀 About Me - English
+🔥 Challenging Limits | Creating the Future | Impacting the World 🔥
+
+Welcome!
+
+I am Mayra Machado, a tireless mind on a quest to surpass boundaries and shape tomorrow. My journey is a trail of accomplishments, filled with a passion for innovation and an insatiable hunger for knowledge. I am a young entrepreneurial professional aiming to continue my development. I thrive on giving my best in all tasks, maintaining a proactive attitude, and finding positive ways to engage with people. I love to learn new things and firmly believe that the pursuit of new knowledge should be constant!
+
+🌎 Languages - English: Intermediate - Italian: Basic - French: Fluent - Spanish: Fluent - Portuguese: Mother Tongue
+
+🎓 Education
+
+PUC Minas
+Bachelor of Technology - BTech, Analysis and Systems Development (January 2023 - August 2025)
+
+42 Lisboa
+Information Technology (June 2022 - August 2022)
+
+Centro Universitário Unihorizontes
+Bachelor's in Administration, Business Administration (2014 - 2016)
+
+University of Coimbra
+Diploma of Education, Introduction to Programming in Processing (May 2022 - August 2022)
+
+Université Laval
+Mooc Le Management Responsable, Business Administration (2019 - 2019)
+
+🚀 Experience
+
+Criart Digital Marketing
+Digital Marketing
+January 2020 - Present (3 years 8 months)
+Braga, Braga, Portugal
+
+Imaginart Digital Marketing
+Digital Marketing
+May 2016 - Present (7 years 4 months)
+
+IBM
+Accounts Payable
+March 2021 - September 2022 (1 year 7 months)
+Braga, Portugal
+Invoicing in SAP, As400, and Guide TI. Audits
+
+OdontoVip
+Administrative Manager
+July 2016 - October 2019 (3 years 4 months)
+Ibirité
+
+Step do Brasil
+Project Analyst
+April 2014 - October 2014 (7 months)
+Contagem and Region, Brazil
+Document preparation for engineering release at Fiat Automoveis.
+
+CNH Industrial
+Internship
+December 2012 - April 2014 (1 year 5 months)
+Contagem and Region, Brazil
+Role: Intern - Product Engineering - Engineering Services
+Main tasks: Preparation of engineering release documents and commercial structure release in the PRP (Product Representation Process) environment.
+
+Embalagens M2B
+Office Assistant - Administrative Assistant - Invoice Processor
+December 2009 - January 2012 (2 years 2 months)
+Ibirité
+Main tasks: Preparation of production order documents, billing (simple national and real nucleus), and accounts receivable.
+
+
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+
+
+🚀 À propos de moi
+🔥 Repousser les Limites | Créer le Futur | Impacter le Monde 🔥
+
+Bienvenue !
+
+Je suis Mayra Machado, un esprit infatigable en quête de repousser les frontières et de façonner l'avenir. Mon parcours est une voie jalonnée de réalisations, empreinte d'une passion pour l'innovation et d'une faim insatiable de connaissance. Je suis une jeune professionnelle entrepreneure ayant l'intention de continuer mon développement. J'aime donner le meilleur de moi dans toutes les tâches. J'ai une attitude proactive et trouve des moyens positifs pour inspirer et engager les gens. J'adore apprendre de nouvelles choses et je crois que la quête de nouvelles connaissances doit être constante !
+
+🌎 Langues - Anglais : Intermédiaire - Italien : Basique - Français : Courant - Espagnol : Courant - Portugais : Langue maternelle
+
+🎓 Éducation
+
+PUC Minas
+Bachelor en Technologie - BTech, Analyse et Développement de Systèmes (Janvier 2023 - Août 2025)
+
+42 Lisbonne
+Technologie de l'Information (Juin 2022 - Août 2022)
+Centro Universitário Unihorizontes
+
+Bachelor en Administration, Administration et Affaires (2014 - 2016)
+Université de Coimbra
+
+Udacity (Digital Marketing, Marketing Analytics et Data Visualization Nanodegree)
+
+Diplôme d'Éducation, Introduction à la Programmation en Processing (Mai 2022 - Août 2022)
+
+Université Laval
+
+Mooc Le Management Responsable, Administration des Entreprises (2019 - 2019)
+
+🚀 Expérience
+
+Criart Marketing Digital
+Marketing Digital
+Janvier 2020 - Présent (3 ans 8 mois)
+Braga, Braga, Portugal
+
+Imaginart Marketing Digital
+Marketing Digital
+Mai 2016 - Présent (7 ans 4 mois)
+
+IBM
+Comptes Payables
+Mars 2021 - Septembre 2022 (1 an 7 mois)
+Braga, Portugal
+Facturation sur Sap, As400 et Guide TI. Audits.
+
+OdontoVip
+Gérante Administrative
+Juillet 2016 - Octobre 2019 (3 ans 4 mois)
+Ibirité
+
+Step do Brasil
+Analyste de Projets
+Avril 2014 - Octobre 2014 (7 mois)
+Contagem et Région, Brésil
+Préparation des documents de libération d'ingénierie pour Fiat Automoveis.
+
+CNH Industrial
+Stage
+Décembre 2012 - Avril 2014 (1 an 5 mois)
+Contagem et Région, Brésil
+Rôle : Stagiaire - Ingénierie des Produits - Services d'Ingénierie
+Principales activités : Préparation des documents de libération d'ingénierie et libération de la structure commerciale dans l'environnement PRP (Processus de Représentation des Produits).
+
+Embalagens M2B
+Assistante de Bureau - Assistante Administrative - Facturière
+Décembre 2009 - Janvier 2012 (2 ans 2 mois)
+Ibirité
+Principales activités : Préparation des ordres de production, facturation (régime simplifié et noyau réel) et comptes à recevoir.
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+
+🚀 Acerca de mí
+🔥 Desafiando Límites | Creando el Futuro | Impactando el Mundo 🔥
+
+¡Bienvenidos!
+
+Soy Mayra Machado, una mente incansable en busca de sobrepasar fronteras y moldear el mañana. Mi trayectoria es un sendero de logros, lleno de pasión por la innovación y un hambre insaciable por el conocimiento. Soy una joven profesional emprendedora con la intención de seguir desarrollándome. Me gusta dar lo mejor de mí en todas las tareas. Tengo una actitud proactiva y encuentro formas positivas de inspirar y relacionarme con las personas. Amo aprender cosas nuevas y creo que la búsqueda de nuevos conocimientos debe ser constante.
+
+🌎 Idiomas - Inglés: Intermedio - Italiano: Básico - Francés: Fluido - Español: Fluido - Portugués: Lengua materna
+
+🎓 Educación
+
+PUC Minas
+Licenciatura en Tecnología - BTech, Análisis y Desarrollo de Sistemas (Enero de 2023 - Agosto de 2025)
+
+42 Lisboa
+Tecnología de la Información (Junio de 2022 - Agosto de 2022)
+Centro Universitario Unihorizontes
+
+Licenciatura en Administración, Administración y Negocios (2014 - 2016)
+Universidad de Coimbra
+
+Udacity (Digital Marketing, Marketing Analytics y Data Visualization Nanodegree)
+
+Diploma de Educación, Introducción a la Programación en Processing (Mayo de 2022 - Agosto de 2022)
+
+Université Laval
+
+Mooc Le Management Responsable, Administración de Empresas (2019 - 2019)
+
+🚀 Experiencia
+
+Criart Marketing Digital
+Marketing Digital
+Enero de 2020 - Presente (3 años 8 meses)
+Braga, Braga, Portugal
+
+Imaginart Marketing Digital
+Marketing Digital
+Mayo de 2016 - Presente (7 años 4 meses)
+
+IBM
+Cuentas por Pagar
+Marzo de 2021 - Septiembre de 2022 (1 año 7 meses)
+Braga, Portugal
+Facturación en Sap, As400 y Guide TI. Auditorías.
+
+OdontoVip
+Gerente Administrativo
+Julio de 2016 - Octubre de 2019 (3 años 4 meses)
+Ibirité
+
+Step do Brasil
+Analista de Proyectos
+Abril de 2014 - Octubre de 2014 (7 meses)
+Contagem y Región, Brasil
+Elaboración de documentos de liberación de ingeniería de Fiat Automoveis.
+
+CNH Industrial
+Prácticas
+Diciembre de 2012 - Abril de 2014 (1 año 5 meses)
+Contagem y Región, Brasil
+Rol: Pasante - Ingeniería de Producto - Servicios de Ingeniería
+Principales actividades: Elaboración de documentos de liberación de ingeniería y liberación de estructura comercial en el entorno PRP (Proceso de Representación de Producto).
+
+Embalagens M2B
+Asistente de Oficina - Asistente Administrativo - Facturación
+Diciembre de 2009 - Enero de 2012 (2 años 2 meses)
+Ibirité
+Principales actividades: Elaboración de órdenes de producción, facturación (régimen simplificado y núcleo real) y cuentas por cobrar. 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/MayraRodriguez777/dio-lab-open-source)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayra-machado-034389103/)
